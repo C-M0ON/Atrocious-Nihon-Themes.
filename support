@@ -1,0 +1,46 @@
+{
+  "Title": "purbple",
+  "Creator": "Star2",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#9f19ff"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#9f19ff"
+    }
+  ]
+}
