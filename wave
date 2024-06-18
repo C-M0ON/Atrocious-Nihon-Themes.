@@ -1,0 +1,46 @@
+{
+  "Title": "Detected",
+  "Creator": "Rexi",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#161617"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#2240f0"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#161617"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#161617"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#161617"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#fcfcfc"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#536bf5"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#536bf5"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#536bf5"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#fafafc"
+    }
+  ]
+}
