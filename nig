@@ -1,0 +1,46 @@
+{
+  "Title": "Nig A 30",
+  "Creator": "Star2",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#754810"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#754810"
+    }
+  ]
+}
