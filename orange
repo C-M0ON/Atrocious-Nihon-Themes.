@@ -1,0 +1,46 @@
+{
+  "Title": "what came first?",
+  "Creator": "Star2",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#eb8b15"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#1a1918"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#fc8f0a"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#fc8f0a"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#fc8f0a"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#fc8f0a"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#fc8f0a"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#de7d07"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#de7d07"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#de7d07"
+    }
+  ]
+}
