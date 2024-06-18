@@ -1,0 +1,46 @@
+{
+  "Title": "Homosexuality",
+  "Creator": "Star2",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#ff1605"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#ffd105"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#e74cf5"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#84dbba"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#ff6d05"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#bfbcbb"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#463973"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#643feb"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#3feb9e"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#bdb439"
+    }
+  ]
+}
