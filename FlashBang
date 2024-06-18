@@ -1,0 +1,46 @@
+{
+  "Title": "FlashBang",
+  "Creator": "Star2",
+  "Theme": [
+    {
+      "Name": "Nihon Primary",
+      "Color": "#d1d1d1"
+    },
+    {
+      "Name": "Nihon Lining",
+      "Color": "#f5eeed"
+    },
+    {
+      "Name": "Nihon Secondary",
+      "Color": "#4B0082"
+    },
+    {
+      "Name": "Nihon Tertiary",
+      "Color": "#ffffff"
+    },
+    {
+      "Name": "Nihon Quaternary",
+      "Color": "#ffffff"
+    },
+    {
+      "Name": "Nihon Grey Text",
+      "Color": "#bfbcbb"
+    },
+    {
+      "Name": "Nihon Button",
+      "Color": "#bfbcbb"
+    },
+    {
+      "Name": "Nihon Logo Accent",
+      "Color": "#ebebeb"
+    },
+    {
+      "Name": "Nihon Accent",
+      "Color": "#ebebeb"
+    },
+    {
+      "Name": "Nihon Accent Text",
+      "Color": "#ffffff"
+    }
+  ]
+}
